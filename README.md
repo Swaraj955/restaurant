@@ -1,2 +1,2 @@
 HTML document 
-project
+project name restaurant management 
